@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# This is to showcase how to pass properties from parent to child components in React
+
+![Alt text](public/img.png?raw=true "Example of the screeenshot")
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
